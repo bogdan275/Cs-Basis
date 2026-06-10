@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Data/Data.csproj" />
+  <Project Path="Repositories/Repositories.csproj" />
+  <Project Path="Services/Services.csproj" Id="43728eee-d659-4319-885d-869c63df93dc" />
+  <Project Path="UI/UI.csproj" Id="3b8e6066-2458-42bb-9aa8-53593488133f" />
+</Solution>
